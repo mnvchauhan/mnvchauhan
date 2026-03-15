@@ -2,67 +2,53 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=200&section=header&text=MANAV%20CHAUHAN&fontSize=70&animation=twinkling" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mnvchauhan&label=PROFILE+VIEWS&color=00f2fe&style=flat" alt="Profile Views" />
+</p>
+
 ---
 
-### 🏆 Achievements & Badges
+### 🏆 Achievements & Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mnvchauhan&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="Manav's Trophies" /></a>
 </p>
 
 ---
 
-### 🛠️ Professional Tech Stack (The Architecture)
-
-**Backend & Architecture**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,django,fastapi,nodejs,mysql,postgres,mongodb,redis" />
-</p>
-
-**DevOps & Infrastructure**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,jenkins,githubactions,terraform" />
-</p>
-
----
-
-### 💻 Featured Projects
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnvchauhan&repo=tokeninjection&theme=tokyonight&border_radius=10" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnvchauhan&repo=makemypdfs&theme=tokyonight&border_radius=10" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnvchauhan&repo=game&theme=tokyonight&border_radius=10" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mnvchauhan&repo=WCSC&theme=tokyonight&border_radius=10" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 System Analytics
+### 🎮 Code Evolution (The Snake)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mnvchauhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnvchauhan&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+  <img src="https://raw.githubusercontent.com/mnvchauhan/mnvchauhan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-### 📈 Contribution Heatmap
+### 🛠️ The Architect's Tools
+
+**Backend & Cloud**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,mysql,postgres,docker,kubernetes,aws" />
+</p>
+
+**DevOps & Automation**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,nginx,jenkins,githubactions,terraform,ansible,bash,git" />
+</p>
+
+---
+
+### 💬 Random Developer Wisdom
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mnvchauhan&theme=tokyonight&area=true&hide_border=true&color=00f2fe" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
 ### ⚡ Technical Bio
-- 🛠️ **Current Focus:** Microservices Architecture & Containerization.
-- ⚙️ **Automations:** Building CI/CD pipelines to streamline deployments.
-- 🔗 **API Design:** Developing secure and optimized RESTful services.
+- 🔭 **Current Focus:** Microservices Architecture & Scalability.
+- ⚙️ **DevOps:** Automating everything that can be automated.
+- 🐧 **Linux:** Command line is my second language.
+- 🔗 **Socials:** [LinkedIn](https://linkedin.com/in/mnvchauhan1/) | [Email](mailto:manavchauhan616@gmail.com)
+
+<p align="right">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=60&section=footer" />
+</p>
