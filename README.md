@@ -39,3 +39,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=60&section=footer" />
 </div>
+### 📈 My Coding Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mnvchauhan&theme=react-dark&area=true&hide_border=true" width="100%" />
+</p>
