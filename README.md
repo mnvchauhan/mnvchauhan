@@ -56,11 +56,7 @@ I'm a **Software Engineer** dedicated to building high-performance web and mobil
 
 ---
 
-### ⚡ Quick Status & Tech Activity
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnvchauhan&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=mnvchauhan&theme=tokyonight&no-bg=true&margin-w=4" />
-</div>
+
 
 ---
 
