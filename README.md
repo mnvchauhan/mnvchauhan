@@ -57,7 +57,7 @@
 ## 📫 Connect With Me
 - 🌐 Portfolio: https://www.mnvchauhan.site  
 - 💻 GitHub: https://github.com/mnvchauhan  
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
+- 💼 LinkedIn: https://linkedin.com/in/mnvchauhan1 
 - 📧 Email: manavchauhan616@gmail.com  
 
 ---
