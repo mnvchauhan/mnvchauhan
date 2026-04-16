@@ -1,72 +1,65 @@
-# Hi there, I'm Manav! 👋 
+👋 Hi, I'm Manav Chauhan
 
-<div align="center">
-  <a href="https://mnvchauhan.site" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mnvchauhan1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:manavchauhan616@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+Backend Developer with 1.5+ years of experience building scalable web applications, REST APIs, and cloud-based systems using Python, Django, Flask, and AWS.
 
-  <br/>
-  <br/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Software+Engineer;Python+&+Django+Developer;Mobile+App+Developer;DevOps+Enthusiast" alt="Typing SVG" />
-</div>
+I focus on performance optimization, automation, and reliable backend architecture.
 
----
+🚀 About Me
+🔧 Building backend systems using Django, Flask, and REST APIs
+☁️ Deploying and managing applications on AWS & Linux VPS
+⚡ Optimizing database performance (MongoDB, MySQL)
+🤖 Automating server workflows (cron jobs, scripts, monitoring)
+📊 Creating dashboards for real-time data tracking & analytics
+🎯 Transitioning towards DevOps & scalable cloud architecture
+🧰 Tech Stack
+💻 Languages
 
-### 👨‍💻 About Me
-I'm a **Software Engineer** dedicated to building high-performance web and mobile applications. Currently, I'm focusing on scaling backend systems and refining my DevOps workflow.
+Python, C, C++, JavaScript
 
-* 🔭 Working on: **Personal Portfolio & Mobile Apps**
-* 🌱 Learning: **Advanced System Design & Cloud Computing**
-* 💬 Ask me about: **Python, Django, and React Native**
+⚙️ Frameworks
 
----
+Django, Flask, REST APIs
 
-### 🛠 Tech Stack
+☁️ Cloud & DevOps
 
-#### **Backend & Databases**
-<div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+AWS EC2, Linux, Git, GitHub, VPS Deployment, WSGI
 
-#### **Frontend & Mobile**
-<div align="left">
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/expo-%23000020.svg?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
+🗄️ Databases
 
-#### **DevOps & Tools**
-<div align="left">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</div>
+MongoDB, MySQL
 
----
+📊 Tools & Others
 
+VS Code, WordPress, Canva
 
+💼 Experience Highlights
+🔹 Backend Developer | GLITCHES
+Built scalable REST APIs → 30% faster performance
+Optimized MongoDB queries → 25% latency reduction
+Automated backend tasks → saved 10+ hours/month
+Managed full production deployment on VPS
+🔹 Cloud & Backend Engineer | Alpha Research
+Managed AWS infrastructure with 100% uptime
+Built high-volume traffic routing system (Flask)
+Developed real-time analytics dashboard
+🔹 Technical Instructor | Sun Foundation
+Trained students in Python, Django, and backend development
+Taught Git/GitHub workflows and real-world coding practices
+📌 Featured Projects
+🔄 Traffic Routing Engine & Dashboard
 
----
+High-performance backend system to route large-scale traffic dynamically with real-time analytics.
 
-### 🎮 Interactive Contributions
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mnvchauhan/mnvchauhan/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+📄 MakeMyPDFs – PDF Utility Platform
 
----
+All-in-one document tool with 10+ features (merge, convert, sign) deployed live.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
-</div>
+🎟️ Movie Ticket Booking System
+
+QR-based ticketing system with fraud detection + scanner app (PWA).
+
+📫 Connect With Me
+📧 Email: manavchauhan616@gmail.com
+🌐 Portfolio: https://www.mnvchauhan.site
+💼 LinkedIn: https://linkedin.com/in/mnvchauhan1
+📸 Instagram: https://instagram.com/mnvchauhan
